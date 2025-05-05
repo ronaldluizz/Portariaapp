@@ -1,0 +1,1 @@
+Este projeto é um aplicativo Android desenvolvido com Kotlin como parte de um trabalho de extensão universitária. O objetivo é oferecer uma solução prática e acessível para controle de entrada e saída em portarias, promovendo organização e registro seguro de visitantes.
